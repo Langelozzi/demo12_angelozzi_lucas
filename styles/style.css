@@ -27,6 +27,10 @@
     background-color: #A27B5C;
 }
 
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+}
+
 .btn {
     background-color: #3F4E4F;
     color: #fff;
